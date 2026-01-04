@@ -14,11 +14,6 @@ social sciences, and interdisciplinary research fields. Each journal operates un
 an independent editorial board and follows internationally recognized standards
 of peer review and publication ethics.
 
-## Website
-
-The official publisher website is available at:
-
-https://panorama-sg.com
 
 ## Technical Notes
 
