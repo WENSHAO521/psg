@@ -18,7 +18,7 @@ of peer review and publication ethics.
 
 The official publisher website is available at:
 
-https://www.panorama-sg.com
+https://panorama-sg.com
 
 ## Technical Notes
 
